@@ -1,0 +1,64 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1710942654585,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başarılı login girişinde localStoragea email adresini kaydediyor.",
+          "status": "passed",
+          "title": "Başarılı login girişinde localStoragea email adresini kaydediyor.",
+          "duration": 555,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresini email inputuna ekleyerek form açılıyor.",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresini email inputuna ekleyerek form açılıyor.",
+          "duration": 571,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresi yoksa focus email inputunda açılıyor",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresi yoksa focus email inputunda açılıyor",
+          "duration": 572,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresi varsa focus password inputunda açılıyor",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresi varsa focus password inputunda açılıyor",
+          "duration": 586,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1710956709654,
+      "endTime": 1710956711938,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Fatih ÇAKMAK/Documents/GitHub/projeler/sprint9/sprint9 gün3 proje1/src/__tests__/index.test.jsx"
+    }
+  ]
+}
